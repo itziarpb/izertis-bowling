@@ -1,4 +1,7 @@
 Kata "Software de bolera"
+
+Mi solucion en javascript ante el reto planteado por Izertis
+
 ==========================
 
 En esta kata se expone un problema en el que se debe implementar un algoritmo para el cálculo de la puntuación de una bolera.  
